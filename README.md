@@ -1,4 +1,4 @@
-*Read this in other languages: [English](README.md), [Russian](README.ru.md)
+*Read this in other languages: [English](README.md), [Russian](README.ru.md)*
 
 # Cells counting in the Fuchs-Rosenthal Counting Chamber using CV (Faster RCNN model)
 
